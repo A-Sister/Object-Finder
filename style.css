@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width:100%;
+    margin: 0px;
+    font-size:25px;
+}
+
+span{
+    color:black;
+    font-size:14px;
+}
+
+#name{
+    color:crimson;
+    font-size:18px;
+}
+
+#input{
+    width:400px;
+}
+
+canvas{
+    border: 2px dashed beige;
+    border-radius:20px;
+    box-shadow: 10px 10px 25px rgb(212, 146, 168);
+}
